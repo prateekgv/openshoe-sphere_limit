@@ -3,7 +3,8 @@
 
 <p align="center"><img src="https://github.com/prateekgv/openshoe-sphere_limit/blob/master/animation/cm_slm_uc_smaller_size.gif" width="600" height="450" /></p>
 
-#### Citations:
+#### Citations
+
 ```
 @INPROCEEDINGS{6498266,
 author={G. V. Prateek and R. Girisha and K. V. S. Hari and P. Händel},
