@@ -1,7 +1,7 @@
 # Openshoe - Sphere Limit Method
 ```MATLAB``` implementation of dual foot-mounted inertial navigation system to reduce the systematic heading drift using sphere limit method (SLM).
 
-## Citations:
+#### Citations:
 
 > @INPROCEEDINGS{6498266,
 > author={G. V. Prateek and R. Girisha and K. V. S. Hari and P. Händel},
