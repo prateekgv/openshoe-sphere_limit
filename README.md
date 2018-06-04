@@ -21,3 +21,6 @@ year={2014},
 pages={24-29},
 month={Oct}}
 ```
+
+#### License
+The source code is released under the MIT license.
